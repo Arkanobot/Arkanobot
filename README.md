@@ -78,7 +78,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Arkanobot/Arkanobot/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Arkanobot/Arkanobot/output/snake-light.svg" media="(prefers-color-scheme: light)">
+  <source srcset="https://raw.githubusercontent.com/Arkanobot/Arkanobot/output/snake.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/Arkanobot/Arkanobot/output/snake.svg" alt="Github Commits Snake animation" />
+</picture>
+
 
 ###
 
