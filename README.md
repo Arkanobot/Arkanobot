@@ -89,11 +89,13 @@
 
 <br clear="both">
 
-<div align="center">  
+<div align="center">
+  <h2>Connect with me or checkout my profile at</h2>
   <a href="https://discord.com/users/273714636635897856"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="mailto:shreyasbhatk97@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/shreyasbhatk"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://www.hackerrank.com/shreyas1744"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /></a>
+  <a href="https://drive.google.com/file/d/1Y2BUjuh3t85WRxkUjns0u6nFhV036Cw4/view?usp=sharing"><img src="https://img.shields.io/static/v1?message=Resume&logo=readme&label=&color=243C54&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo"/></a>
 </div>
 
 ###
