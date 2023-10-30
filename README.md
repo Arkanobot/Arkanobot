@@ -72,7 +72,6 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=black&style=for-the-badge" height="30" alt="powershell logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="30" alt="windows8 logo"  />
-  <img src="https://img.shields.io/badge/Docker-0078D6?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
 </div>
 
 ###
